@@ -1,2 +1,2 @@
-# Let-Code-test-cases-
+# Let-Code-test-cases
 Using WebdriverIO
